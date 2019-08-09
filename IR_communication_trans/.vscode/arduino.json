@@ -1,0 +1,6 @@
+{
+    "programmer": "AVR ISP",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyACM0",
+    "sketch": "IR_communication_trans.ino"
+}
