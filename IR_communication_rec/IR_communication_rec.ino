@@ -1,4 +1,5 @@
 /*
+  Author : Sudharsan
    This program recieves the IR Signal which follows the NEC Protocol.
 
     Binary Values Used
